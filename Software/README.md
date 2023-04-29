@@ -1,16 +1,4 @@
 # A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation
-### DOI: [https://doi.org/10.48550/arXiv.2202.08146](https://doi.org/10.48550/arXiv.2202.08146)
-### Citation:
-```
-@misc{khan2022prospective,
-      title={A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation}, 
-      author={Md. Mohi Uddin Khan and Abdullah Bin Shams and Md. Mohsin Sarker Raihan},
-      year={2022},
-      eprint={2202.08146},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
 ----------------------------------------------------------------------------------------------------
 # Software Installation:
 ### Step-1: Download the H2HI_WiFi.zip file in your PC from here: [https://zenodo.org/record/7878129](https://zenodo.org/record/7878129) . Then, extract the *.zip file.

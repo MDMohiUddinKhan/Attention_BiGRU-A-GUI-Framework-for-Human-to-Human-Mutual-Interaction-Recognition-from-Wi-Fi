@@ -5,7 +5,7 @@ Human Activity Recognition (HAR) research has gained significant momentum due to
 
 ----------------------------------------------------------------------------------------------------
 # Software Installation:
-### Step-1: Download the H2HI_WiFi Repository in your PC from here: [https://zenodo.org/record/7878129](https://zenodo.org/record/7878129) . Then, extract the *.zip file.
+### Step-1: Download the H2HI_WiFi.zip file in your PC from here: [https://zenodo.org/record/7878129](https://zenodo.org/record/7878129) . Then, extract the *.zip file.
 ### Step-2: Python Requirement
  - Download 'Windows installer (64-bit)' of the 'python 3.9.7' from this link: [https://www.python.org/downloads/release/python-397/](https://www.python.org/downloads/release/python-397/) and install in your pc.
 ### Step-3: Tensorflow-GPU Requirement

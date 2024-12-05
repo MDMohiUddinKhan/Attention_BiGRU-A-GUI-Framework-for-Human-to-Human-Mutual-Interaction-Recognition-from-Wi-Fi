@@ -1,6 +1,6 @@
 # A prospective approach for human-to-human interaction recognition from Wi-Fi channel data using attention bidirectional gated recurrent neural network with GUI application implementation
 ### DOI: [https://doi.org/10.1007/s11042-023-17487-z](https://doi.org/10.1007/s11042-023-17487-z)
-### Citation:
+### Citation (BiBTeX):
 ```
 @article{Khan_Shams_Raihan_2024, title={A prospective approach for human-to-human interaction recognition from Wi-Fi Channel data using attention bidirectional gated recurrent neural network with GUI application implementation}, volume={83}, DOI={10.1007/s11042-023-17487-z}, number={22}, journal={Multimedia Tools and Applications}, author={Khan, Md Mohi and Shams, Abdullah Bin and Raihan, Mohsin Sarker}, year={2024}, month={Jan}, pages={62379–62422}}
 ```
@@ -9,7 +9,7 @@ Human Activity Recognition (HAR) research has gained significant momentum due to
 
 ----------------------------------------------------------------------------------------------------
 
-# Software Demo: [![Watch the video](https://img.youtube.com/vi/yUKANUwgi4s/maxresdefault.jpg)](https://youtu.be/yUKANUwgi4s)
+# Software Demo (Click on the picture to Watch Video): [![Watch the video](https://github.com/MDMohiUddinKhan/Attention_BiGRU-GUI-Framework-for-Human-to-Human-Mutual-Interaction-Recognition-from-Wi-Fi/blob/main/Home_BG.png)](https://youtu.be/yUKANUwgi4s)
 
 ----------------------------------------------------------------------------------------------------
 # Software Installation:
